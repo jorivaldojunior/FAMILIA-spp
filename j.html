@@ -1,0 +1,121 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Netflix Clone
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+            font-family: 'Roboto', sans-serif;
+        }
+  </style>
+ </head>
+ <body class="bg-black text-white">
+  <!-- Navbar -->
+  <nav class="flex items-center justify-between p-4">
+   <div class="flex items-center space-x-4">
+    <img alt="Netflix logo with red text on a black background" class="h-8" height="50" src="https://storage.googleapis.com/a1aa/image/PpnUzvj2zjbALx8s2eEFzaBuNemadMedXstqfov5oPSkedUfE.jpg" width="100"/>
+    <a class="text-white" href="#">
+     Home
+    </a>
+    <a class="text-gray-400" href="#">
+     TV Shows
+    </a>
+    <a class="text-gray-400" href="#">
+     Movies
+    </a>
+    <a class="text-gray-400" href="#">
+     New &amp; Popular
+    </a>
+    <a class="text-gray-400" href="#">
+     My List
+    </a>
+   </div>
+   <div class="flex items-center space-x-4">
+    <i class="fas fa-search text-white">
+    </i>
+    <a class="text-white" href="#">
+     Kids
+    </a>
+    <i class="fas fa-bell text-white">
+    </i>
+    <img alt="User avatar with a generic silhouette on a black background" class="h-8 w-8 rounded-full" height="30" src="https://storage.googleapis.com/a1aa/image/EPnIKmHIDp60BJHuBO88sUaxYfgwxUhNf9Qbboqky8kqvj6TA.jpg" width="30"/>
+   </div>
+  </nav>
+  <!-- Hero Section -->
+  <section class="relative">
+   <img alt="Featured movie image with a dark theme and placeholder text" class="w-full h-96 object-cover" height="1080" src="https://storage.googleapis.com/a1aa/image/aYXeV70AsQWUPSp8Cne6AlJ0wt3YyfgeAKh7mlb5u3kuedUfE.jpg" width="1920"/>
+   <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
+   </div>
+   <div class="absolute bottom-10 left-10">
+    <h1 class="text-4xl font-bold">
+     Featured Movie Title
+    </h1>
+    <p class="text-lg mt-2">
+     This is a brief description of the featured movie. It gives an overview of the plot and main characters.
+    </p>
+    <div class="mt-4">
+     <button class="bg-white text-black px-4 py-2 rounded-md mr-2">
+      <i class="fas fa-play">
+      </i>
+      Play
+     </button>
+     <button class="bg-gray-700 text-white px-4 py-2 rounded-md">
+      <i class="fas fa-info-circle">
+      </i>
+      More Info
+     </button>
+    </div>
+   </div>
+  </section>
+  <!-- Movie List Section -->
+  <section class="p-4">
+   <h2 class="text-2xl font-bold mb-4">
+    Popular on Netflix
+   </h2>
+   <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+    <div>
+     <img alt="Movie 1 poster with a dark theme and placeholder text" class="w-full h-auto" height="300" src="https://storage.googleapis.com/a1aa/image/0efMduXC8JoBtkhECFTYOtqELAFgxjzqRWYK1DRMYA7ivj6TA.jpg" width="200"/>
+     <p class="mt-2">
+      Movie 1
+     </p>
+    </div>
+    <div>
+     <img alt="Movie 2 poster with a dark theme and placeholder text" class="w-full h-auto" height="300" src="https://storage.googleapis.com/a1aa/image/I60pxVgjJmr2Etjjq3b3MCSiDgmFZqnQWQah8PhOcky47oeJA.jpg" width="200"/>
+     <p class="mt-2">
+      Movie 2
+     </p>
+    </div>
+    <div>
+     <img alt="Movie 3 poster with a dark theme and placeholder text" class="w-full h-auto" height="300" src="https://storage.googleapis.com/a1aa/image/Co5VqRAZ2aIbO1cNk9fOMjiNV7QZw2j8NAiEo5tqyz8y3R9JA.jpg" width="200"/>
+     <p class="mt-2">
+      Movie 3
+     </p>
+    </div>
+    <div>
+     <img alt="Movie 4 poster with a dark theme and placeholder text" class="w-full h-auto" height="300" src="https://storage.googleapis.com/a1aa/image/M67DnF9PqrIlONdGxfGXmw2ee6EUmo8gkb4EQuUqSPYJfOqPB.jpg" width="200"/>
+     <p class="mt-2">
+      Movie 4
+     </p>
+    </div>
+    <div>
+     <img alt="Movie 5 poster with a dark theme and placeholder text" class="w-full h-auto" height="300" src="https://storage.googleapis.com/a1aa/image/eeqpSJyPbIhxoET8eM9TeiSQruom5xACPbe20Mahd2458dUfE.jpg" width="200"/>
+     <p class="mt-2">
+      Movie 5
+     </p>
+    </div>
+    <div>
+     <img alt="Movie 6 poster with a dark theme and placeholder text" class="w-full h-auto" height="300" src="https://storage.googleapis.com/a1aa/image/axcpuyxrHwqJIZQ1cjQ9uA9h57cfzeUTSUcLa80xYnomvj6TA.jpg" width="200"/>
+     <p class="mt-2">
+      Movie 6
+     </p>
+    </div>
+   </div>
+  </section>
+ </body>
+</html>
