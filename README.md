@@ -67,4 +67,4 @@
 
 
 <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem5spp.png?raw=true"/> <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem3spp.png?raw=true"/> <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem4spp.png?raw=true"/>
-<img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem6spp.png?raw=true"/>
+<img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem6spp.png?raw=true"/> <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem7spp.png?raw=true"/>
