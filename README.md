@@ -65,6 +65,8 @@
 
 <p><strong>🎤 Acesse e compartilhe a energia do pagode com a Família SPP! 🎵</strong></p>
 
-<img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem1spp.png?raw=true"/>
+
 <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem5spp.png?raw=true"/> <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem3spp.png?raw=true"/> <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem4spp.png?raw=true"/>
 <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem6spp.png?raw=true"/> <img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem7spp.png?raw=true"/>
+<br>
+<img src="https://github.com/jorivaldojunior/FAMILIA-spp/blob/main/image/imagem1spp.png?raw=true"/>
